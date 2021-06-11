@@ -1,3 +1,24 @@
-# Estruturas de Dados - Exercícios
+## Estrutura de dados - Exercícios
+### 💻 Sobre o repositório:
+O repositório contém as resoluções dos exercícios estudados na disciplina de estrutura de dados da UFS. 
 
-Repositório destinado aos exercícios e projetos desenvolvidos no curso de Estrutura de dados na Universade Federal de Sergipe
+### 💭 Estruturas estudadas:
+	
+ - **Pilha**
+ -  **Fila**
+ - **Lista**
+	 - Lista encadeada simples
+	 - Lista duplamente encadeada
+	 - Lista circular
+ - **Árvores**
+	 - Árvore binária
+	 - Árvore AVL 
+	 - Árvore rubro negra
+ - **Tabela Hash**
+ 
+### 💭 Algoritmos de ordenação estudados:
+ -  **Selection sort**
+ - **Insertion sort**
+ - **Bubble sort**
+ -  **Quicksort**
+
